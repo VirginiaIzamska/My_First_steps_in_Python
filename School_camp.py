@@ -29,7 +29,7 @@ elif season == 'Summer':
     if type_group == 'boys' or type_group == 'girls':
         price_all_nights = 15.00 * nights_number
         if type_group == 'boys':
-            type_sport = 'Football'
+            type_sport = 'Football '
         elif type_group == 'girls':
             type_sport = 'Volleyball'
     elif type_group == 'mixed':
