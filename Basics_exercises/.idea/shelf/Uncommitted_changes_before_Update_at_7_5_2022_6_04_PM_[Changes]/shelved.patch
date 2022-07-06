@@ -1,0 +1,57 @@
+Index: Conditional-Statements-Advanced_More_Excercises/.idea/misc.xml
+===================================================================
+diff --git a/Conditional-Statements-Advanced_More_Excercises/.idea/misc.xml b/Conditional-Statements-Advanced_More_Excercises/.idea/misc.xml
+deleted file mode 100644
+--- a/Conditional-Statements-Advanced_More_Excercises/.idea/misc.xml	(revision 7d2aaa969ad2951cc03c72087ef50990c4f76bd8)
++++ /dev/null	(revision 7d2aaa969ad2951cc03c72087ef50990c4f76bd8)
+@@ -1,4 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.10" project-jdk-type="Python SDK" />
+-</project>
+\ No newline at end of file
+Index: Conditional-Statements-Advanced_More_Excercises/.idea/modules.xml
+===================================================================
+diff --git a/Conditional-Statements-Advanced_More_Excercises/.idea/modules.xml b/Conditional-Statements-Advanced_More_Excercises/.idea/modules.xml
+deleted file mode 100644
+--- a/Conditional-Statements-Advanced_More_Excercises/.idea/modules.xml	(revision 7d2aaa969ad2951cc03c72087ef50990c4f76bd8)
++++ /dev/null	(revision 7d2aaa969ad2951cc03c72087ef50990c4f76bd8)
+@@ -1,8 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="ProjectModuleManager">
+-    <modules>
+-      <module fileurl="file://$PROJECT_DIR$/.idea/Conditional-Statements-Advanced_More_Excercises.iml" filepath="$PROJECT_DIR$/.idea/Conditional-Statements-Advanced_More_Excercises.iml" />
+-    </modules>
+-  </component>
+-</project>
+\ No newline at end of file
+Index: Conditional-Statements-Advanced_More_Excercises/.idea/vcs.xml
+===================================================================
+diff --git a/Conditional-Statements-Advanced_More_Excercises/.idea/vcs.xml b/Conditional-Statements-Advanced_More_Excercises/.idea/vcs.xml
+deleted file mode 100644
+--- a/Conditional-Statements-Advanced_More_Excercises/.idea/vcs.xml	(revision 7d2aaa969ad2951cc03c72087ef50990c4f76bd8)
++++ /dev/null	(revision 7d2aaa969ad2951cc03c72087ef50990c4f76bd8)
+@@ -1,7 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="VcsDirectoryMappings">
+-    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+-    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+-  </component>
+-</project>
+\ No newline at end of file
+Index: Conditional-Statements-Advanced_More_Excercises/.idea/inspectionProfiles/profiles_settings.xml
+===================================================================
+diff --git a/Conditional-Statements-Advanced_More_Excercises/.idea/inspectionProfiles/profiles_settings.xml b/Conditional-Statements-Advanced_More_Excercises/.idea/inspectionProfiles/profiles_settings.xml
+deleted file mode 100644
+--- a/Conditional-Statements-Advanced_More_Excercises/.idea/inspectionProfiles/profiles_settings.xml	(revision 7d2aaa969ad2951cc03c72087ef50990c4f76bd8)
++++ /dev/null	(revision 7d2aaa969ad2951cc03c72087ef50990c4f76bd8)
+@@ -1,6 +0,0 @@
+-<component name="InspectionProjectProfileManager">
+-  <settings>
+-    <option name="USE_PROJECT_PROFILE" value="false" />
+-    <version value="1.0" />
+-  </settings>
+-</component>
+\ No newline at end of file
