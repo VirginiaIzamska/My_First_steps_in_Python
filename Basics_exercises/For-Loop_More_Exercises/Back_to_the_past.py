@@ -1,8 +1,6 @@
 received_money = float(input())
 year_till_live = int(input())
 
-# , че за всяка четна (1800, 1802 и т.н.) година ще харчи 12 000 лева. За всяка нечетна (1801,1803  и т.н.)
-# ще харчи 12 000 + 50 * [годините, които е навършил през дадената година].
 age_completed = 18
 spend = 0
 for i in range(1800, year_till_live + 1):
