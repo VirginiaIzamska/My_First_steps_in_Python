@@ -1,6 +1,3 @@
-import cowsay
-
-
 
 n = int(input())
 
